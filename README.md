@@ -1,10 +1,11 @@
 <div align="center">
-  <img height="300" src="https://rishavanand.github.io/static/images/greetings.gif"  />
+  <img width="480" height="366" src="https://media.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif"  />
 </div>
+
 
 ###
 
-<h1 align="center">Hi, im'a CTACEK 👋</h1>
+<h1 align="center">Hi, I'm CTACEK 👋</h1>
 
 ###
 
@@ -12,7 +13,13 @@
 
 ###
 
-<p align="left">Stanislav Yudov<br><br>I study at the Moscow University of Radio Engineering, Electronics and Automation<br><br>🎓 I'm learning mobile development<br>🔥 I am ready to help and participate in the pet project<br>🧠 I am looking for help with databases in mobile development</p>
+
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1000&color=4BF79C&width=300&height=35&lines=Stanislav+Yudov" alt="Typing SVG" /></a>
+  <br>🔭 I’m studying at the Moscow University of Radio Engineering, Electronics and Automation
+  <br>🎓 I'm learning mobile development
+  <br>🔥 I am ready to help and participate in the pet project
+  <br>🧠 I am looking for help with databases in mobile development</p>
 
 ###
 
@@ -63,5 +70,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CTACEK&icon=2&color=8)](https://visitcount.itsvg.in)
-
-
