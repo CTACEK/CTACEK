@@ -19,7 +19,6 @@
   <br>🔭 I’m studying at the Moscow University of Radio Engineering, Electronics and Automation
   <br>🎓 I'm learning mobile development
   <br>🔥 I am ready to help and participate in the pet project
-  <br>🧠 I am looking for help with databases in mobile development</p>
 
 ###
 
